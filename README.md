@@ -67,10 +67,10 @@ int main() {
 }
 ```
 ## OUTPUT:
-## NOT FOUND
+##  SYMBOL NOT FOUND
 ![Screenshot 2025-04-10 142950](https://github.com/user-attachments/assets/b2e9a8ae-741d-4c16-afdf-145287c8c2ac)
 
-## FOUND
+## SYMBOL FOUND
 ![Screenshot 2025-04-10 143104](https://github.com/user-attachments/assets/45ea79a9-e857-4583-877b-c715729193b9)
 
 
